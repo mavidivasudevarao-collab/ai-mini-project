@@ -25,7 +25,6 @@ def about():
     print("It detects whether a news message is REAL or FAKE using keywords.")
 
 
-# Main program
 while True:
     show_menu()
     choice = input("Enter your choice (1-3): ")
